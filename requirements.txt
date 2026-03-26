@@ -1,0 +1,7 @@
+torch
+transformers
+bitsandbytes
+accelerate
+numpy
+matplotlib
+huggingface_hub
